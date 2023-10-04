@@ -1,0 +1,10 @@
+body {
+    background-image: url(myfav.jpg);
+    background-size: 100% auto;
+	background-repeat:no-repeat;
+	background-attachment: scroll;
+	width: 100%;
+    max-width:100%;
+    height: auto;
+	
+}
